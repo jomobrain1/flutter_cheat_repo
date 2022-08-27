@@ -4,8 +4,9 @@ A flutter cheat_repo
 
 ## The main branch is a  Bottom navigation bar
 
-<img src="/images/count.png" width="300"     alt="" srcset="">
 
-<img src="/images/home.png" width="300"     alt="" srcset="">
-<img src="/images/profile.png" width="300"     alt="" srcset="">
+<img align=top  src="/images/count.png" width="100"     alt="" srcset="">
+
+<img align=top  src="/images/home.png" width=100"     alt="" srcset="">
+<img  align=top src="/images/profile.png" width="100"     alt="" srcset="">
 
